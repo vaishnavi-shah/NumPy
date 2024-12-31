@@ -23,9 +23,3 @@ print(r.dtype)
 c = r.astype('i')
 print(c)
 print(c.dtype)
-
-
-
-
-
-
